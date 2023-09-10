@@ -1,0 +1,85 @@
+/* body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+} */
+.main-div{
+    position: absolute;
+    background-color: hwb(31 58% 4%);
+    height: 592px;
+    width: 1350px;
+    /* padding-left: 40px;
+    padding-top: 40px; */
+}
+.heading, .para-div, .show-div, .input-div, .msg{
+    width: 562px;
+    margin-left: 136px;
+    height: 108px;
+}
+.email{
+    width: 150px;
+    padding: 5px;
+    border: solid black 3px;
+    border-radius: 3px;
+}
+.btn{
+    width: 150px;
+    padding: 5px;
+    border: solid black 3px;
+    border-radius: 3px;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+
+.msg{
+    color: white;
+}
+
+.p7{
+    position: absolute;
+    width: 575px;
+    float: right;
+    height: 575px; 
+    left: 780px;
+    top: 20px;
+   
+    /* color: red; */
+}
+.footer-div{
+    position: absolute;
+    background-color: black;
+    width: 1350px;
+    height: 298px;
+    top:592px;
+    
+    /* padding-left: 70px;
+    padding-top: 30px; */
+}
+
+.left-div{
+    color: white;
+    font-size: 15px;
+    margin-left: 19px;
+}
+
+.right-div{
+    margin-left:900px;
+    margin-top: -150px;
+    padding-left: 200px;
+    color: white;
+    font-size: 15px;
+}
+/* Style all font awesome icons */
+.fa {
+    padding: 5px;
+    font-size: 20px;
+    /* width: 50px; */
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    capacity:0.7;
+   }
